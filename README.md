@@ -21,7 +21,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriele-viola&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 📫 **Contattami:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriele-viola-733245202)
-- 📧 [gabrieleviola50@gmail.com](mailto:gabrieleviola50@gmail.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriele-viola-733245202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriele%20Viola-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrieleviola50@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-gabrieleviola50%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
