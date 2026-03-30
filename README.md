@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-📈 **Statistiche GitHub:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriele-Viola&show_icons=true&v=3)
-
-
 
 📫 **Contattami:**
 
