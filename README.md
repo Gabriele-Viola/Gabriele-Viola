@@ -18,7 +18,7 @@
 </p>
 
 📈 **Statistiche GitHub:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriele-viola&show_icons=true&hide_title=true&hide=prs&theme=radical&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriele-Viola&show_icons=true&hide_title=true&hide=prs&theme=radical&cache_seconds=86400)
 
 
 
